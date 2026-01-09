@@ -1,5 +1,6 @@
 # Spam-Detector
 Python Machine Learning and NLP
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/56ea290f-1af6-4a4c-b20d-354efd8bcb7b" />
 
 📧 Spam Email Classifier
 A machine learning system for classifying emails as Spam (unwanted/junk) or Ham (legitimate/wanted) using Natural Language Processing (NLP) and multiple classification algorithms.
